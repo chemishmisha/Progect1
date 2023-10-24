@@ -1,9 +1,12 @@
-body{
-	background-color: #CC33CC;
-font-size: 40px;
-text-align: center;
+div {
+width: 250px;
+margin-bottom: 5px;
+border: 2px solid blue;
+
+
+
 
 }
-h1{text-align: center;}
-p{text-align: center;}
-img{border-image: space;}
+.nav-list li{
+	display: inline-block;
+}
