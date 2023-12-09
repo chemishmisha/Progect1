@@ -91,7 +91,7 @@ nav.nav-content a{
 	display:block;
 	padding: 0 10px;
 	color: #FFF;
-	font-size: 40px;
+	font-size: 20px;
 	line-height: 100px;
 	text-decoration: none;
 }
@@ -140,3 +140,26 @@ nav.nav-content ul ul ul{
 #displayYear{
 	color: black;
 }
+.flex-conteiner {
+	display: flex;
+	background-color: dodgerblue;
+	height: 500px;
+	background: transparent;
+}
+.flex-conteiner > div {
+background: transparent;
+margin: 20px;
+padding: 20px;
+font-size: 15px;
+width: 30%;
+}
+img{
+	float: left;
+	width: 200px;
+}
+
+nav.nav-content{
+	margin: 100px 0;
+	border: 1px double black;
+}
+

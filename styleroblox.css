@@ -1,0 +1,19 @@
+h2 {
+	text-align: center;
+}
+ {
+ 	box-sizing: border-box;
+ }
+ body {
+ 	font-family: Roboto;
+ 	padding: 20px;
+ 	background: #f1f1f1;
+ }
+ .header {
+ 	padding: 30px;
+ 	font-size: 40px;
+ 	text-align: center;
+ 	background: white;
+ 	background-image: url("America.jpg");
+ 	background-size: cover;
+ }
